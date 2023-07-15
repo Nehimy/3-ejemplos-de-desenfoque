@@ -1,0 +1,22 @@
+/*
+   El valor border-box en el box-sizing hace que el padding y el border pasen a formar parte
+   del cálculo del ancho de la caja.
+ */
+
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.circle {
+    width: 50vw;
+    height: 50vh;
+    background: #ff9800;
+    border-radius: 50%;
+}
+
+h1 {
+    color: white;
+    filter: blur(1px);
+}
