@@ -58,7 +58,7 @@ h1 {
     grid-row: 3;
 
     animation: blur-h1 2s infinite;
-    animation-3s: delay;
+    animation-delay: 3s;
 }
 
 
