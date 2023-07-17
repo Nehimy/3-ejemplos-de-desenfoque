@@ -1,0 +1,16 @@
+* Desenfoque (blur) en CSS
+blur genera un desenfoque gaussiano esto es un efecto de suavidad o difuminado, en otras palabras genera un efecto borroso más o menos.
+** Sintaxis
+#+begin_src css
+blur(radio)
+#+end_src
+ Si el valor del radio es 0 no se produce el desenfoque.
+
+** Ejemplos
+#+begin_src css
+blur(0)        /* Sin desenfoque */
+blur(8px)      /* Desenfoque en píxeles  */
+blur(1.17rem)  /* Desenfoque en rem, rem significa que el tamaño de letra coresmponde al elemento raíz. */
+#+end_src
+** Vídeo
+ [[https://imgur.com/TCadS3u.png] [https://youtu.be/qA9te0yiPGs]]
