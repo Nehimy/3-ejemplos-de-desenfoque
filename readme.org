@@ -13,4 +13,4 @@ blur(8px)      /* Desenfoque en píxeles  */
 blur(1.17rem)  /* Desenfoque en rem, rem significa que el tamaño de letra coresmponde al elemento raíz. */
 #+end_src
 ** Vídeo
- [[https://imgur.com/TCadS3u.png] [https://youtu.be/qA9te0yiPGs]]
+ [[https://www.youtube.com/watch?v=qA9te0yiPGs][https://i.imgur.com/TCadS3u.png]]
